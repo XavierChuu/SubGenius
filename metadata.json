@@ -1,0 +1,7 @@
+{
+  "name": "SubGenius_V2",
+  "description": "Professional AI-powered subtitle generator using Gemini 3. Supports multiple languages, sentence-based or character-limit splitting, and export to SRT.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
